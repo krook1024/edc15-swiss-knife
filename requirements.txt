@@ -1,0 +1,7 @@
+pythonnet==3.0.0.post1
+pyinstaller==5.5
+dataclasses-json==0.5.7
+PySimpleGUI==4.60.4
+pyperclip==1.8.2
+numpy==1.23.5
+scipy==1.9.3
